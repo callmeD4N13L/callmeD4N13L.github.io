@@ -91,8 +91,8 @@
     { "id": "ejpt", "name": "eJPT Penetration Testing (self-study)", "issuer": "Self Study" },
     { "id": "pfpt", "name": "PFPT Practical Pentest (self-study)", "issuer": "Self Study" },
     { "id": "pwk", "name": "PWK — Penetration Testing with Kali Linux (coursework)", "issuer": "Ravin Academy" },
-    { "id": "ps-pentest", "name": "PowerShell for Pentesters", "issuer": "Lian Academy" },
-    { "id": "winlog", "name": "Windows Log Analysis", "issuer": "Ravin Academy" },
+    { "id": "ps-pentest", "name": "PowerShell for Pentesters", "issuer": "Self Study" },
+    { "id": "winlog", "name": "Windows Log Analysis", "issuer": "Self Study" },
     { "id": "sql", "name": "SQL Basics", "issuer": "Self Study" },
     { "id": "blockchain", "name": "Blockchain & Cryptocurrency", "issuer": "Self Study" },
     { "id": "es-inc", "name": "Elasticsearch Incident Management (self-study)", "issuer": "Self Study" }
