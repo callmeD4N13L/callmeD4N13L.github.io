@@ -1,0 +1,161 @@
+{
+  "_comment": "Single source of truth — professionalized 2026-09-29. 4 years incl. independent research. Edit ONLY this file.",
+  "profile": {
+    "name": "Amirhossein Saberi Fard",
+    "shortName": "Amir Saberi",
+    "title": "Cybersecurity Specialist — Blue Team · Penetration Testing · Security Research",
+    "location": "Tehran, Iran",
+    "email": "ZDRuMTNsdzR0NTBAcHJvdG9uLm1l",
+    "telegram": "YW1pcmhvM2VpbnNhYmVyaQ==",
+    "about": "Cybersecurity specialist with 4 years of hands-on experience across SOC operations, networking, and security research — including independent lab work alongside formal roles. Blue-team experience on environments serving 3000+ daily users (EPP / EDR / NDR / XDR hardening, detection tuning, incident handling). Offensive focus on vulnerability assessment, penetration testing and red teaming with Nmap, Nuclei, Burp Suite, Metasploit (msfconsole / msfvenom), plus OSINT-driven reconnaissance. Builder in Python and C++ — automation, Telegram bots, Cloudflare Workers, exploit prototypes and malware research in controlled labs and multiple realworld scenarios. Known for clear technical writing, teaching, and calm incident response."
+  },
+  "focus": ["Cybersecurity", "Penetration Testing", "Security Research"],
+  "experience": [
+    {
+      "id": "security-research",
+      "role": "Vulnerability Researcher / OSINT Specialist / Red Team Operator / Malware Developer / Cloud Computing Automation Developer",
+      "org": "Podsoft",
+      "period": "Mar 2025 – Present",
+      "points": [
+        "Vulnerability assessment and penetration testing in isolated home-lab environments",
+        "OSINT-driven reconnaissance workflows and reporting",
+        "Red-team tooling: Nuclei templates, Python exploit prototypes, Metasploit (msfconsole / msfvenom) payload testing",
+        "Malware behavior research and analysis with Python / C++ in controlled VMs + legal real world scenario projects",
+        "Technical writing: reverse engineering, steganography, WAF and Linux shell research"
+      ]
+    },
+    {
+      "id": "soc-analyst",
+      "role": "SOC Analyst — Tier 1 / 2",
+      "org": "Sindad Sec — Tehran",
+      "period": "Jul 2024 – Feb 2025",
+      "points": [
+        "Triaged and responded to security alerts across client environments",
+        "Monitored client network health and escalated incidents per playbooks",
+        "Authored incident reports and tuning recommendations",
+        "Translated and applied threat-intelligence feeds to detections",
+        "Tuned SIEM / EDR detection rules to reduce false positives",
+        "Built security catalogs and knowledge-base articles",
+        "Supported authorized internal vulnerability checks",
+        "Delivered security-awareness training to non-technical staff"
+      ]
+    },
+    {
+      "id": "netsec-intern",
+      "role": "Junior Network & Security Specialist (Internship)",
+      "org": "Douran Group — Tehran",
+      "period": "Oct 2023 – Jun 2024",
+      "points": [
+        "Designed foundational LAN topologies and documented configurations",
+        "Co-instructed Network+ and Cisco CCNA study sessions",
+        "Built simulated networks in lab (Packet Tracer / EVE-NG class tooling)",
+        "Translated and summarized security articles for internal training"
+      ]
+    },
+    {
+      "id": "volunteer-netsec",
+      "role": "IT & Network Security Assistant — Project-based",
+      "org": "Commercial / education-site projects — Tehran",
+      "period": "Feb 2024 – Feb 2025",
+      "points": [
+        "Hardened workstations and servers, applied patch baselines",
+        "Monitored 40+ endpoints across a school intranet segment",
+        "Maintained asset inventory and monitoring dashboards",
+        "Administered bandwidth policies and access control",
+        "Assisted cabling, rack setup, switch / PBX install and OS deployment"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "id": "bsc-micro",
+      "degree": "B.Sc. Microbiology (in progress)",
+      "school": "University",
+      "period": "2022 – Present"
+    },
+    {
+      "id": "diploma",
+      "degree": "High-School Diploma, Experimental Sciences",
+      "school": "Bagher Al-Olum High School",
+      "period": "2019 – 2022"
+    }
+  ],
+  "certifications": [
+    { "id": "net-plus", "name": "CompTIA Network+ (coursework)", "issuer": "Douran Academy" },
+    { "id": "sec-plus", "name": "CompTIA Security+ (coursework)", "issuer": "Douran Academy" },
+    { "id": "ccna", "name": "Cisco CCNA 200-301 (coursework)", "issuer": "Douran Academy" },
+    { "id": "ceh", "name": "Certified Ethical Hacker — CEH (coursework)", "issuer": "Douran Academy" },
+    { "id": "sans-504", "name": "SANS SEC504: Hacker Tools & Incident Handling (self-study)", "issuer": "Self Study" },
+    { "id": "sans-450", "name": "SANS SEC450: Blue Team Fundamentals (self-study)", "issuer": "Self Study" },
+    { "id": "lpic1", "name": "LPIC-1 Linux Administrator (self-study)", "issuer": "Self Study" },
+    { "id": "ejpt", "name": "eJPT Penetration Testing (self-study)", "issuer": "Self Study" },
+    { "id": "pfpt", "name": "PFPT Practical Pentest (self-study)", "issuer": "Self Study" },
+    { "id": "pwk", "name": "PWK — Penetration Testing with Kali Linux (coursework)", "issuer": "Ravin Academy" },
+    { "id": "ps-pentest", "name": "PowerShell for Pentesters", "issuer": "Lian Academy" },
+    { "id": "winlog", "name": "Windows Log Analysis", "issuer": "Ravin Academy" },
+    { "id": "sql", "name": "SQL Basics", "issuer": "Self Study" },
+    { "id": "blockchain", "name": "Blockchain & Cryptocurrency", "issuer": "Self Study" },
+    { "id": "es-inc", "name": "Elasticsearch Incident Management (self-study)", "issuer": "Self Study" }
+  ],
+  "skills": {
+    "systems": ["Linux", "Kali Linux", "Windows/linux Log Analysis", "OPSEC", "Nginx"],
+    "networkWireless": ["Networking", "Cisco CCNA", "FortiGate CLI", "Nmap", "Wireshark", "Wireless Assessment", "WiFi Testing (airodump-ng, aireplay-ng, wifite, evil-twin)"],
+    "offensive": ["OSINT", "Vulnerability Assessment", "Penetration Testing", "Red Teaming", "Nuclei", "Nmap", "Wireshark", "Burp Suite", "Metasploit (msfconsole / msfvenom)", "Silver Bullet", "Knockpy", "Cryptography", "Social Engineering", "Pretexting", "Quid Pro Quo", "Python Exploit Development", "Malware Development (Python/C++)", "Malware Analysis (C++/Python)", "Reverse Engineering", "Steganography"],
+    "defensive": ["ELK (Elasticsearch)", "Splunk", "Suricata", "Incident Handling & Response", "EDR / XDR / NDR", "OPSEC"],
+    "engineering": ["Python", "Python Automation", "Python Scripting", "C++", "msfconsole", "msfvenom", "Metasploit Framework", "Tkinter", "Pandas", "SQL", "Telegram Bot (Python)", "Cloudflare Workers", "Cloud (S3, R2, EC2)", "HTML / CSS", "Microsoft Visio"],
+    "productivityResearch": ["Jira", "Confluence", "Documentation", "Technical Writing", "Report Writing", "Teaching", "Microsoft Word", "Microsoft Excel", "Microsoft PowerPoint", "Prompt Engineering", "Blockchain", "Cryptocurrency", "R&D"],
+    "programming": ["C++", "Python", "PowerShell", "Git & GitHub", "Docker"]
+  },
+  "projects": [
+    {
+      "id": "linux-shells",
+      "title": "Linux shell types — research notes",
+      "category": "Security Research",
+      "description": "Practical comparison of Linux shells for operators and detection engineers (Apr 2024).",
+      "technologies": ["Linux", "Shell"],
+      "skills": ["Linux", "Documentation"]
+    },
+    {
+      "id": "waf-article",
+      "title": "What is a WAF? — explainer",
+      "category": "Security Article",
+      "description": "Introductory WAF article commissioned by Douran Group (Dec 2024).",
+      "technologies": ["WAF", "Web Security"],
+      "skills": ["Technical Writing", "Network Security"]
+    },
+    {
+      "id": "nuclei-templates",
+      "title": "Custom Nuclei templates",
+      "category": "Security Research",
+      "description": "Designed and tested Nuclei vulnerability templates in lab (Feb 2025).",
+      "technologies": ["Nuclei", "Vulnerability Assessment"],
+      "skills": ["Vulnerability Assessment"]
+    },
+    {
+      "id": "reverse-stego",
+      "title": "Reverse engineering & steganography notes",
+      "category": "Security Research",
+      "description": "Notes on RE workflows for defensive tool design and steganography detection basics.",
+      "technologies": ["Reverse Engineering", "Steganography"],
+      "skills": ["Security Research"]
+    }
+  ],
+  "achievements": [
+    {
+      "id": "ctf-20",
+      "title": "Top 20 — IUT National CTF (Individual)",
+      "org": "Isfahan University of Technology",
+      "period": "Mar 2024"
+    }
+  ],
+  "languages": [
+    { "id": "en", "name": "English", "reading": "Advanced", "writing": "Upper-Intermediate", "listening": "Advanced", "speaking": "Upper-Intermediate" },
+    { "id": "fa", "name": "Persian", "level": "Native" }
+  ],
+  "seo": {
+    "title": "Amir Saberi — SOC Analyst & Penetration Tester",
+    "description": "Amirhossein Saberi Fard: 4 years in SOC, vulnerability assessment, penetration testing, red teaming and OSINT. Python, C++, Metasploit, Nuclei, Burp Suite.",
+    "keywords": ["Amir Saberi", "SOC Analyst", "Penetration Testing", "Vulnerability Assessment", "Red Teaming", "OSINT", "Nuclei", "Burp Suite", "Metasploit", "Python security", "Tehran cybersecurity"],
+    "canonical": ""
+  }
+}

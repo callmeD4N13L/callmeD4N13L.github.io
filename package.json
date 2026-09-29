@@ -1,0 +1,39 @@
+{
+  "name": "portfolio-github.io",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Dark single-page portfolio — React + Vite — Python • C/C++ • 4 years",
+  "engines": {
+    "node": ">=18.0.0",
+    "npm": ">=8.0.0"
+  },
+  "packageManager": "npm@11.17.0",
+  "scripts": {
+    "dev": "vite --host --port 4004",
+    "dev:host": "vite --host 0.0.0.0 --port 4004 --open",
+    "start": "vite --host --port 4004",
+    "build": "vite build",
+    "preview": "vite preview --host --port 4004",
+    "lint": "oxlint",
+    "lint:fix": "oxlint --fix",
+    "clean": "rimraf dist node_modules/.vite",
+    "reinstall": "npm run clean && npm install",
+    "serve": "npm run preview"
+  },
+  "dependencies": {
+    "react": "^19.2.8",
+    "react-dom": "^19.2.8",
+    "zod": "^4.6.5"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.2",
+    "@types/react": "^19.2.18",
+    "@types/react-dom": "^19.2.7",
+    "@vitejs/plugin-react": "^6.1.1",
+    "oxlint": "^1.81.0",
+    "rimraf": "^6.1.0",
+    "typescript": "^7.0.2",
+    "vite": "^8.3.0"
+  }
+}
