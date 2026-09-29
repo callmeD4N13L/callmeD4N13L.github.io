@@ -90,7 +90,7 @@
     { "id": "lpic1", "name": "LPIC-1 Linux Administrator (self-study)", "issuer": "Self Study" },
     { "id": "ejpt", "name": "eJPT Penetration Testing (self-study)", "issuer": "Self Study" },
     { "id": "pfpt", "name": "PFPT Practical Pentest (self-study)", "issuer": "Self Study" },
-    { "id": "pwk", "name": "PWK — Penetration Testing with Kali Linux (coursework)", "issuer": "Ravin Academy" },
+    { "id": "pwk", "name": "PWK — Penetration Testing with Kali Linux (coursework)", "issuer": "Self Study" },
     { "id": "ps-pentest", "name": "PowerShell for Pentesters", "issuer": "Self Study" },
     { "id": "winlog", "name": "Windows Log Analysis", "issuer": "Self Study" },
     { "id": "sql", "name": "SQL Basics", "issuer": "Self Study" },
