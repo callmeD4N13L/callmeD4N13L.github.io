@@ -308,7 +308,7 @@ export default function App() {
               <button className="btn btn-neon" onClick={copyEmail}>{copied ? "Copied ✓" : "Copy"}</button>
               <a className="btn" href={`mailto:${email}`}>Open mail →</a>
               {telegram && (
-                <a className="btn" href={`https://t.me/${telegram}`} target="_blank" rel="noreferrer">Telegram: {telegram}</a>
+                <a className="btn" href={`https://t.me/${telegram.replace(/^@/, "")}`} target="_blank" rel="noreferrer">Telegram: {telegram.startsWith("@") ? telegram : `@${telegram}`}</a>
               )}
             </div>
           </div>
