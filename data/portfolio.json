@@ -100,9 +100,9 @@
   "skills": {
     "systems": ["Linux", "Kali Linux", "Windows/linux Log Analysis", "OPSEC", "Nginx"],
     "networkWireless": ["Networking", "Cisco CCNA", "FortiGate CLI", "Nmap", "Wireshark", "Wireless Assessment", "WiFi Testing (airodump-ng, aireplay-ng, wifite, evil-twin)"],
-    "offensive": ["OSINT", "Vulnerability Assessment", "Penetration Testing", "Red Teaming", "Nuclei", "Nmap", "Wireshark", "Burp Suite", "Metasploit (msfconsole / msfvenom)", "Silver Bullet", "Knockpy", "Cryptography", "Social Engineering", "Pretexting", "Quid Pro Quo", "Python Exploit Development", "Malware Development (Python/C++)", "Malware Analysis (C++/Python)", "Reverse Engineering", "Steganography"],
+    "offensive": ["OSINT", "Vulnerability Assessment", "Penetration Testing", "Red Teaming", "Nuclei", "Nmap", "Wireshark", "Burp Suite", "Metasploit (msfconsole / msfvenom)", "Silver Bullet", "Knockpy", "Cryptography", "Social Engineering", "Pretexting", "Quid Pro Quo", "Python Exploit Development", "Malware Development (Python/C++)", "Malware Analysis (C++/Python)", "Reverse Engineering", "Steganography", "Selenium", "Playwright"],
     "defensive": ["ELK (Elasticsearch)", "Splunk", "Suricata", "Incident Handling & Response", "EDR / XDR / NDR", "OPSEC"],
-    "engineering": ["Python", "Python Automation", "Python Scripting", "C++", "msfconsole", "msfvenom", "Metasploit Framework", "Tkinter", "Pandas", "SQL", "Telegram Bot (Python)", "Cloudflare Workers", "Cloud (S3, R2, EC2)", "HTML / CSS", "Microsoft Visio"],
+    "engineering": ["Python", "Python Automation", "Python Scripting", "C++", "msfconsole", "msfvenom", "Metasploit Framework", "Tkinter", "Pandas", "SQL", "Telegram Bot (Python)", "Cloudflare Workers", "Cloud (S3, R2, EC2)", "HTML / CSS", "Microsoft Visio", "Selenium", "Playwright"],
     "productivityResearch": ["Jira", "Confluence", "Documentation", "Technical Writing", "Report Writing", "Teaching", "Microsoft Word", "Microsoft Excel", "Microsoft PowerPoint", "Prompt Engineering", "Blockchain", "Cryptocurrency", "R&D"],
     "programming": ["C++", "Python", "PowerShell", "Git & GitHub", "Docker"]
   },
